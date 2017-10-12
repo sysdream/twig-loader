@@ -20,6 +20,8 @@
     "twig": "~0.8.9"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fastparse": "^1.1.1",
     "hasha": "^2.2.0",
     "loader-utils": "^0.2.11",
     "map-cache": "^0.2.2",
